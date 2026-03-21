@@ -1,0 +1,11 @@
+cc0, dataset, ibero-america, longitudinal-dataset, mental-health-specialists, open-data, psychiatrists, who-mental-health-atlas, zenodo
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI
