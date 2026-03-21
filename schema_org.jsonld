@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Longitudinal dataset (2000-2026) on the density of mental health and neurology specialists per 100,000 inhabitants in 16 Ibero-American countries, including OECD and LAC averages. Variables: psychiatrists, clinical psychologists, neurologists, neurop",
+  "description": "Longitudinal dataset (2000-2026) on the density of mental health and neurology specialists per 100,000 inhabitants in 16 Ibero-American countries, including OECD and LAC averages. Variables: psychiatrists, clinical psychologists, neurologists, neurop",
+  "url": "https://github.com/juanmoisesd/mental-health-and-neurological-specialists-per-100000-inhabitants-in-ibero-ameri",
+  "sameAs": "https://juanmoisesd.github.io/mental-health-and-neurological-specialists-per-100000-inhabitants-in-ibero-ameri/",
+  "identifier": "https://github.com/juanmoisesd/mental-health-and-neurological-specialists-per-100000-inhabitants-in-ibero-ameri",
+  "author": {
+    "@type": "Person",
+    "name": "Juan Moisés de la Serna Tuya",
+    "@id": "https://orcid.org/0000-0002-8401-8018",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Universidad Internacional de La Rioja (UNIR)"
+    },
+    "email": "juanmoises.delaserna@unir.net"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)",
+    "url": "https://www.unir.net"
+  },
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "datePublished": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "keywords": "cc0, dataset, ibero-america, longitudinal-dataset, mental-health-specialists, open-data, psychiatrists, who-mental-health-atlas, zenodo",
+  "inLanguage": [
+    "es",
+    "en"
+  ],
+  "isAccessibleForFree": true,
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://github.com/juanmoisesd/mental-health-and-neurological-specialists-per-100000-inhabitants-in-ibero-ameri"
+    }
+  ]
+}
