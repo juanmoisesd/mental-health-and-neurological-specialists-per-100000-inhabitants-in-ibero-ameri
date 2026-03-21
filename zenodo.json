@@ -1,0 +1,43 @@
+{
+  "title": "Longitudinal dataset (2000-2026) on the density of mental health and neurology specialists per 100,000 inhabitants in 16 Ibero-American countries, including OECD and LAC averages. Variables: psychiatrists, clinical psychologists, neurologists, neurop",
+  "description": "Longitudinal dataset (2000-2026) on the density of mental health and neurology specialists per 100,000 inhabitants in 16 Ibero-American countries, including OECD and LAC averages. Variables: psychiatrists, clinical psychologists, neurologists, neurop",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "dataset",
+    "ibero-america",
+    "longitudinal-dataset",
+    "mental-health-specialists",
+    "open-data",
+    "psychiatrists",
+    "who-mental-health-atlas",
+    "zenodo"
+  ],
+  "language": "eng",
+  "version": "1.0.0",
+  "publication_date": "2026-03-20",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/mental-health-and-neurological-specialists-per-100000-inhabitants-in-ibero-ameri",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "contributors": [],
+  "grants": [],
+  "notes": "Compiled from publicly available secondary sources. Author ORCID: https://orcid.org/0000-0002-8401-8018"
+}
