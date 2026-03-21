@@ -1,20 +1,21 @@
 cff-version: 1.2.0
-message: "Please cite this dataset using the metadata below."
+message: "If you use this software/dataset, please cite it as below."
 type: dataset
-title: "Mental Health and Neurological Specialists per 100,000 Inhabitants in Ibero-America (2000-2026)"
+title: "Longitudinal dataset (2000-2026) on the density of mental health and neurology specialists per 100,000 inhabitants in 16 Ibero-American countries, including OECD and LAC averages. Variables: psychiatrists, clinical psychologists, neurologists, neurop"
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
     orcid: "https://orcid.org/0000-0002-8401-8018"
     affiliation: "Universidad Internacional de La Rioja (UNIR)"
-doi: "10.5281/zenodo.18984813"
-url: "https://doi.org/10.5281/zenodo.18984813"
+    email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/mental-health-and-neurological-specialists-per-100000-inhabitants-in-ibero-ameri"
-license: CC0-1.0
-date-released: "2026-03-12"
+url: "https://juanmoisesd.github.io/mental-health-and-neurological-specialists-per-100000-inhabitants-in-ibero-ameri/"
+abstract: "Longitudinal dataset (2000-2026) on the density of mental health and neurology specialists per 100,000 inhabitants in 16 Ibero-American countries, including OECD and LAC averages. Variables: psychiatrists, clinical psychologists, neurologists, neurop"
 keywords:
-  - "mental health specialists"
-  - "Ibero-America"
-  - "WHO Mental Health Atlas"
-  - "psychiatrists"
-  - "longitudinal dataset"
+  - open-data
+  - dataset
+  - research
+  - science
+license: CC0-1.0
+version: "1.0.0"
+date-released: "2026-03-20"
