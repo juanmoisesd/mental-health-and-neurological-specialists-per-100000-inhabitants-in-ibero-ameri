@@ -1,0 +1,39 @@
+{
+  "name": "mental-health-and-neurological-specialists-per-100000-inhabitants-in-ibero-ameri",
+  "title": "Longitudinal dataset (2000-2026) on the density of mental health and neurology specialists per 100,000 inhabitants in 16 Ibero-American countries, including OECD and LAC averages. Variables: psychiatrists, clinical psychologists, neurologists, neurop",
+  "description": "Longitudinal dataset (2000-2026) on the density of mental health and neurology specialists per 100,000 inhabitants in 16 Ibero-American countries, including OECD and LAC averages. Variables: psychiatrists, clinical psychologists, neurologists, neurop",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0 Universal",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Juan Moisés de la Serna Tuya",
+      "path": "https://orcid.org/0000-0002-8401-8018",
+      "role": "author",
+      "organization": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "dataset",
+    "ibero-america",
+    "longitudinal-dataset",
+    "mental-health-specialists",
+    "open-data",
+    "psychiatrists",
+    "who-mental-health-atlas",
+    "zenodo"
+  ],
+  "sources": [
+    {
+      "title": "Compiled from public sources",
+      "path": "https://github.com/juanmoisesd/mental-health-and-neurological-specialists-per-100000-inhabitants-in-ibero-ameri"
+    }
+  ],
+  "created": "2026-03-20"
+}
